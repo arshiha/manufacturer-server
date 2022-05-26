@@ -72,3 +72,5 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log("server site running assignment-12", port);
 });
+
+// product
